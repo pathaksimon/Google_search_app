@@ -1,0 +1,14 @@
+.together {
+  display: flex;
+  justify-content: space-between;
+
+  height: 30px;
+  width: 100%;
+  padding-left: 10px;
+}
+
+.kali {
+  height: 25px;
+  width: 25px;
+  padding-right: 10px;
+}

@@ -1,0 +1,49 @@
+.bg-container {
+  background-size: cover;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.photu {
+  height: 200px;
+  width: 450px;
+}
+
+.card1 {
+  width: 40%;
+  height: 45vh;
+  background-color: white;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+
+.dibba {
+  width: 100%;
+  border: transparent;
+  outline: none;
+  height: 40px;
+  font-size: 15px;
+}
+
+.first {
+  display: flex;
+}
+.search_ka_button {
+  height: 40px;
+  width: 40px;
+}
+
+.ani {
+  display: flex;
+  align-items: flex-end;
+}
+.ul {
+  width: 100%;
+  padding-left: 0px;
+}
+.maxi {
+  background-color: green;
+}
